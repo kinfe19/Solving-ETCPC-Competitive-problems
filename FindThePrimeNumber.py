@@ -1,7 +1,5 @@
 #Language:python
-#ID:593
-#QLink:https://quera.org/problemset/593/
-#Author:Amirkhaksar
+#Author:kinfe masrie
 
 n = input()
 m = int(n)
